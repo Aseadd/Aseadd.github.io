@@ -5,17 +5,24 @@ body {
   background: #E5E5E5;
 }
 .toolbar {
-  height: 74px;
-  display: flex;
-  flex-direction: row;
-  align-items: center;
-  padding: 0;
-  gap: 8px;
   position: absolute;
-  width: 255px;
-  height: 40px;
-  left: 591px;
-  top: 16px;
+  width: 1440px;
+  height: 74px;
+  left: 0;
+  top: 0;
+}
+
+.nav-menu {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 0;
+    gap: 8px;
+    position: absolute;
+    width: 255px;
+    height: 40px;
+    left: 591px;
+    top: 16px;
 }
 
 a {
