@@ -1,7 +1,9 @@
 html {
   box-sizing: border-box;
 }
-
+body {
+  background: #E5E5E5;
+}
 .toolbar {
   height: 74px;
   display: flex;
@@ -14,4 +16,12 @@ html {
   height: 40px;
   left: 591px;
   top: 16px;
+}
+
+a {
+  
+}
+
+ul {
+  list-style-type: none;
 }
