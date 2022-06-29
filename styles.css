@@ -1,0 +1,17 @@
+html {
+  box-sizing: border-box;
+}
+.toolbar {
+  height: 74px;
+  margin: 0px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  padding: 0px;
+  gap: 8px;
+  position: absolute;
+  width: 255px;
+  height: 40px;
+  left: 591px;
+  top: 16px;
+}
