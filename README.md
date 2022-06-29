@@ -1,5 +1,3 @@
-![](https://img.shields.io/badge/Microverse-blueviolet)
-
 # Microverse-Project-1
 
 > Creating a Personal Portfolio
