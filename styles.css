@@ -1,9 +1,11 @@
 html {
   box-sizing: border-box;
 }
+
 body {
-  background: #E5E5E5;
+  background: #e5e5e5;
 }
+
 .toolbar {
   position: absolute;
   width: 1440px;
