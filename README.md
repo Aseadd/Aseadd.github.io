@@ -1,4 +1,4 @@
-# HTML & CSS3 Course
+# Microverse-Project-1
 
 If you are not familiar with linters, read [root level README](../README.md).
 
