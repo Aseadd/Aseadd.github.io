@@ -34,3 +34,56 @@ a {
 ul {
   list-style-type: none;
 }
+
+.headline {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 160px 0px;
+  gap: 24px;
+  position: absolute;
+  width: 920px;
+  height: 756px;
+  left: 260px;
+  top: 72px;
+}
+
+.primary-text {
+ height: 114px;
+ width: 920px;
+}
+
+h1 {
+  color: black;
+}
+
+h2 {
+  color:green;
+}
+
+.supporting-text {
+  width: 920px;
+  height: 96px;
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 32px;
+  text-align: center;
+  color: #172B4D;
+  flex: none;
+  order: 1;
+  flex-grow: 0;
+}
+
+.social-media {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  padding: 0px;
+  width: 200px;
+  height: 40px;
+  flex: none;
+  order: 2;
+  flex-grow: 0;
+}
