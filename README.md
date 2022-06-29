@@ -1,11 +1,9 @@
 # Microverse-Project-1
 
-> Creating a repo, apply linter for html and css files
 
 ## Built With
 
 - HTML
-- CSS
 
 ## Live Demo (if available)
 
@@ -19,8 +17,6 @@
 To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
-
-Basics of HTML and CSS
 
 ### Setup
 
