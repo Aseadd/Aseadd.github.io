@@ -129,7 +129,7 @@ h4 {
   flex-direction: row;
   width: 170px;
   height: 20px;
-  font-family: 'Inter' serif;
+  font-family: 'Inter', serif;
   font-style: normal;
   text-align: center;
   flex: none;
