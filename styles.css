@@ -38,7 +38,7 @@ ul {
   list-style-type: none;
 }
 
-a:link{
+a:link {
   text-decoration: none;
 }
 
@@ -58,7 +58,7 @@ a:link{
 .primary-text {
   width: 920px;
   height: 114px;
-  font-family: 'Inter';
+  font-family: 'Times New Roman', Times, serif;
   font-style: normal;
   font-weight: 800;
   font-size: 24px;
@@ -70,7 +70,7 @@ a:link{
   flex-grow: 0;
 }
 
-h4{
+h4 {
   color: black;
 }
 
