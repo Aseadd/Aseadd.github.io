@@ -2,10 +2,6 @@ html {
   box-sizing: border-box;
 }
 
-body {
-  
-}
-
 .toolbar {
   position: relative;
   width: 375px;
@@ -21,10 +17,10 @@ body {
   align-items: center;
   font-size: 20px;
   position: absolute;
-  left: 0px;
-  right: 0px;
+  left: 0;
+  right: 0;
   top: 44px;
-  bottom: 0px;
+  bottom: 0;
   width: 375px;
   height: 44px;
   overflow: hidden;
@@ -140,13 +136,13 @@ a:hover {
   margin: 0 3px;
 }
 
-.menu-icon:hover {
-  background-color: blueviolet;
-}
-
 .menu-icon {
   float: right;
   top: 5px;
+}
+
+.menu-icon:hover {
+  background-color: blueviolet;
 }
 
 .nav-menu .link-list {
