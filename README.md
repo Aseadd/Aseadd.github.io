@@ -31,11 +31,11 @@ Make sure NodeJs and NPM are installed
 ### Setup
 
 1.  Clone the repo into your local machine
-    git clone https://github.com/Aseadd/Microverse-Project-1
+    `git clone https://github.com/Aseadd/Microverse-Project-1
 2.  open terminal and cd in the project
-    cd Microverse-Project-1
+    `cd Microverse-Project-1
 3.  Open the index html in your browser
-    open index.html
+    `open index.html
 
 ### Install
 
