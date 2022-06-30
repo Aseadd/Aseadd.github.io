@@ -45,7 +45,7 @@
 }
 
 a {
-  font-family: Inter;
+  font-family: 'Inter', serif;
   color: blue;
 }
 
@@ -110,7 +110,7 @@ h4 {
 .supporting-text {
   width: 327px;
   height: 85px;
-  font-family: Inter;
+  font-family: 'Inter', serif;
   font-style: normal;
   font-weight: 400;
   font-size: 20px;
@@ -129,7 +129,7 @@ h4 {
   flex-direction: row;
   width: 170px;
   height: 20px;
-  font-family: Inter;
+  font-family: 'Inter' serif;
   font-style: normal;
   text-align: center;
   flex: none;
