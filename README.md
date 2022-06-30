@@ -1,5 +1,9 @@
 # Microverse-Project-1
 
+## Description
+
+This website is my personal portoflio. I have developed number of websites and the projects and my achievents are available here
+
 ## Built With
 
 - HTML
@@ -17,7 +21,21 @@ To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
 
+### Project Setup
+
+To get a local copy and running follow this steps
+prerequisites
+you need to have code editor
+Make sure NodeJs and NPM are installed
+
 ### Setup
+
+1.  Clone the repo into your local machine
+    git clone https://github.com/Aseadd/Microverse-Project-1
+2.  open terminal and cd in the project
+    cd Microverse-Project-1
+3.  Open the index html in your browser
+    open index.html
 
 ### Install
 
