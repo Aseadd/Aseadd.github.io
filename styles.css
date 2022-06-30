@@ -44,7 +44,7 @@
 }
 
 a {
-  font-family: 'Inter';
+  font-family: 'Inter','Times New Roman', Times, serif;
   color: antiquewhite;
 }
 
@@ -83,7 +83,7 @@ a:hover {
   flex-direction: column;
   width: 327px;
   height: 192px;
-  font-family: 'Inter';
+  font-family: 'Inter','Times New Roman', Times, serif;
   font-style: normal;
   font-weight: 700;
   font-size: 40px;
@@ -105,7 +105,7 @@ h5 {
 .supporting-text {
   width: 327px;
   height: 164px;
-  font-family: 'Inter';
+  font-family: 'Inter', 'Times New Roman', Times, serif;
   font-style: normal;
   font-weight: 400;
   font-size: 20px;
@@ -122,7 +122,7 @@ h5 {
   flex-direction: row;
   width: 170px;
   height: 20px;
-  font-family: 'Inter';
+  font-family: 'Inter','Times New Roman', Times, serif;
   font-style: normal;
   text-align: center;
   flex: none;
