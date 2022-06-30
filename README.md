@@ -1,6 +1,5 @@
 # Microverse-Project-1
 
-
 ## Built With
 
 - HTML
@@ -32,15 +31,15 @@ To get a local copy up and running follow these simple example steps.
 
 👤 **Author1**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@githubhandle](https://github.com/Aseadd)
+- Twitter: [@twitterhandle](https://twitter.com/adaTsega)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/addistsega)
 
 👤 **Author2**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@githubhandle](https://github.com/Aseadd)
+- Twitter: [@twitterhandle](https://twitter.com/adaTsega)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/addistsega)
 
 ## 🤝 Contributing
 
@@ -60,4 +59,4 @@ Give a ⭐️ if you like this project!
 
 ## 📝 License
 
-This project is [MIT](./MIT.md) licensed.
+This project is [Microverse](https://www.microverse.org) licensed.
