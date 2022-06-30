@@ -12,6 +12,9 @@ body {
   height: 74px;
   left: 0;
   top: 0;
+  border: blue;
+  border-width: 3vh;
+  background-color: peru;
 }
 
 .nav-menu {
@@ -35,6 +38,10 @@ ul {
   list-style-type: none;
 }
 
+a:link{
+  text-decoration: none;
+}
+
 .headline {
   display: flex;
   flex-direction: column;
@@ -49,15 +56,25 @@ ul {
 }
 
 .primary-text {
-  height: 114px;
   width: 920px;
+  height: 114px;
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 800;
+  font-size: 24px;
+  text-align: center;
+  letter-spacing: 0.37px;
+  color: #172B4D;
+  flex: none;
+  order: 0;
+  flex-grow: 0;
 }
 
-h1 {
+h4{
   color: black;
 }
 
-h2 {
+h5 {
   color: green;
 }
 
