@@ -45,7 +45,7 @@
 }
 
 a {
-  font-family: 'Inter', 'Times New Roman', Times, serif;
+  font-family: Inter;
   color: blue;
 }
 
@@ -83,8 +83,8 @@ a:hover {
   display: flex;
   flex-direction: column;
   width: 327px;
-  height: 132px;
-  font-family: 'Inter', 'Times New Roman', Times, serif;
+  height: 162px;
+  font-family: 'Inter';
   font-style: normal;
   font-weight: 700;
   font-size: 40px;
@@ -98,17 +98,19 @@ a:hover {
 }
 
 h1 {
-  color: black;
+  color: #172B4D;
+  font-size: 48px;
 }
 
-h5 {
+h4 {
   color: green;
+  font-size: 36px;
 }
 
 .supporting-text {
   width: 327px;
   height: 85px;
-  font-family: 'Inter', 'Times New Roman', Times, serif;
+  font-family: Inter;
   font-style: normal;
   font-weight: 400;
   font-size: 20px;
@@ -127,7 +129,7 @@ h5 {
   flex-direction: row;
   width: 170px;
   height: 20px;
-  font-family: 'Inter', 'Times New Roman', Times, serif;
+  font-family: Inter;
   font-style: normal;
   text-align: center;
   flex: none;
