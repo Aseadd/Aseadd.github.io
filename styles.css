@@ -84,7 +84,7 @@ a:hover {
   flex-direction: column;
   width: 327px;
   height: 162px;
-  font-family: 'Inter';
+  font-family: 'Inter-regular';
   font-style: normal;
   font-weight: 700;
   font-size: 40px;
@@ -98,7 +98,7 @@ a:hover {
 }
 
 h1 {
-  color: #172B4D;
+  color: #172b4d;
   font-size: 48px;
 }
 
