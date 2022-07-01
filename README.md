@@ -1,11 +1,12 @@
 # Microverse-Project-1
 
-> Creating a Personal Portfolio
+## Description
+
+This website is my personal portoflio. I have developed number of websites and the projects and my achievents are available here
 
 ## Built With
 
 - HTML
-  -CSS
 
 ## Live Demo (if available)
 
@@ -20,9 +21,21 @@ To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
 
-Basics of HTML, CSS, git,github, linter
+### Project Setup
+
+To get a local copy and running follow this steps
+prerequisites
+you need to have code editor
+Make sure NodeJs and NPM are installed
 
 ### Setup
+
+1.  Clone the repo into your local machine
+    `git clone https://github.com/Aseadd/Microverse-Project-1
+2.  open terminal and cd in the project
+    `cd Microverse-Project-1
+3.  Open the index html in your browser
+    `open index.html
 
 ### Install
 
@@ -36,15 +49,15 @@ Basics of HTML, CSS, git,github, linter
 
 👤 **Author1**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@githubhandle](https://github.com/Aseadd)
+- Twitter: [@twitterhandle](https://twitter.com/adaTsega)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/addistsega)
 
 👤 **Author2**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@githubhandle](https://github.com/Aseadd)
+- Twitter: [@twitterhandle](https://twitter.com/adaTsega)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/addistsega)
 
 ## 🤝 Contributing
 
@@ -64,5 +77,4 @@ Give a ⭐️ if you like this project!
 
 ## 📝 License
 
-This project is [MIT](./MIT.md) licensed.
-
+Copyright 2021, [Addis Tsega]
