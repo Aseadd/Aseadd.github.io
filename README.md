@@ -77,4 +77,4 @@ Give a ⭐️ if you like this project!
 
 ## 📝 License
 
-This project is [Microverse](https://www.microverse.org) licensed.
+Copyright 2021, [Addis Tsega]
