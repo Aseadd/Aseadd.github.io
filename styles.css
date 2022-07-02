@@ -941,7 +941,7 @@ h4 {
 }
 
 .tag-language-name1 {
-  width: 65px;
+  width: fit-content;
   height: 16px;
   font-family: 'Inter', serif;
   font-style: normal;
@@ -1032,7 +1032,7 @@ h4 {
   flex-direction: row;
   align-items: center;
   padding: 12px;
-  width: 89px;
+  width: fit-content;
   height: 40px;
   background: #fff;
   border-radius: 8px;
