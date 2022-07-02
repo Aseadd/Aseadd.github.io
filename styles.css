@@ -348,7 +348,7 @@ h4 {
   height: 222px;
   left: 0;
   bottom: 3px;
-  background: #ffffff;
+  background: #fff;
   border-radius: 8px;
 }
 
@@ -423,7 +423,7 @@ h4 {
   padding: 8px 12px;
   width: 45px;
   height: 32px;
-  background: #Ebf0ee;
+  background: #ebf0ee;
   border-radius: 4px;
   flex: none;
   order: 1;
@@ -512,7 +512,7 @@ h4 {
   position: absolute;
   width: 122px;
   height: 48px;
-  left: calc(50% - 122px/2 + 0.5px);
+  left: calc(50% - 122px / 2 + 0.5px);
   bottom: 8px;
   background: #36b37f;
   border-radius: 4px;
@@ -531,7 +531,7 @@ h4 {
   align-items: center;
   text-align: center;
   letter-spacing: 0.03em;
-  color: #ffffff;
+  color: #fff;
   flex: none;
   order: 0;
   flex-grow: 0;
@@ -554,7 +554,7 @@ h4 {
   display: flex;
   flex-direction: column;
   align-items: center;
-  padding: 0px;
+  padding: 0;
   gap: 24px;
   width: 351px;
   height: 333px;
@@ -621,7 +621,7 @@ h4 {
   align-items: center;
   text-align: center;
   letter-spacing: 0.03em;
-  color: #ffffff;
+  color: #fff;
   flex: none;
   order: 0;
   flex-grow: 0;
@@ -647,9 +647,9 @@ h4 {
   box-sizing: border-box;
   position: absolute;
   left: 20px;
-  right: 0px;
+  right: 0;
   top: 420px;
-  bottom: 0px;
+  bottom: 0;
   background: #ebf0ee;
   border: 1px solid #c1c7d0;
   border-radius: 8px;
@@ -666,7 +666,7 @@ h4 {
   position: absolute;
   width: 327px;
   height: 96px;
-  left: calc(50% - 327px/2);
+  left: calc(50% - 327px / 2);
   bottom: 72px;
 }
 
@@ -674,7 +674,7 @@ h4 {
   position: absolute;
   width: 327px;
   height: 128px;
-  left: calc(50% - 327px/2);
+  left: calc(50% - 327px / 2);
   top: 16px;
 }
 
@@ -690,8 +690,8 @@ h4 {
   position: absolute;
   width: 48px;
   height: 48px;
-  left: calc(50% - 48px/2 + 0.5px);
-  top: calc(50% - 48px/2);
+  left: calc(50% - 48px / 2 + 0.5px);
+  top: calc(50% - 48px / 2);
 }
 
 .frame {
@@ -708,10 +708,10 @@ h4 {
   position: absolute;
   width: 80px;
   height: 80px;
-  left: calc(50% - 80px/2 + 0.5px);
-  top: calc(50% - 80px/2);
-  background: #ffffff;
-  box-shadow: 0px 16px 24px rgba(37, 47, 137, 0.08);
+  left: calc(50% - 80px / 2 + 0.5px);
+  top: calc(50% - 80px /2 );
+  background: #fff;
+  box-shadow: 0 16px 24px rgba(37, 47, 137, 0.08);
   border-radius: 50%;
 }
 
@@ -727,7 +727,7 @@ h4 {
   box-sizing: border-box;
   position: absolute;
   left: 20px;
-  right: 0px;
+  right: 0;
   top: 790px;
   bottom: 0;
   background: #ebf0ee;
@@ -792,7 +792,7 @@ h4 {
   padding: 12px;
   width: 72px;
   height: 40px;
-  background: #ffffff;
+  background: #fff;
   border-radius: 8px;
   flex: none;
   order: 0;
@@ -806,7 +806,7 @@ h4 {
   padding: 12px;
   width: 84px;
   height: 40px;
-  background: #ffffff;
+  background: #fff;
   border-radius: 8px;
   flex: none;
   order: 0;
@@ -820,7 +820,7 @@ h4 {
   padding: 12px;
   width: 103px;
   height: 40px;
-  background: #ffffff;
+  background: #fff;
   border-radius: 8px;
   flex: none;
   order: 1;
@@ -834,7 +834,7 @@ h4 {
   padding: 12px;
   width: 63px;
   height: 40px;
-  background: #ffffff;
+  background: #fff;
   border-radius: 8px;
   flex: none;
   order: 2;
@@ -848,7 +848,7 @@ h4 {
   padding: 12px;
   width: 83px;
   height: 40px;
-  background: #ffffff;
+  background: #fff;
   border-radius: 8px;
   flex: none;
   order: 0;
@@ -862,7 +862,7 @@ h4 {
   padding: 12px;
   width: 81px;
   height: 40px;
-  background: #ffffff;
+  background: #fff;
   border-radius: 8px;
   flex: none;
   order: 1;
@@ -891,7 +891,7 @@ h4 {
   padding: 12px;
   width: 89px;
   height: 40px;
-  background: #ffffff;
+  background: #fff;
   border-radius: 8px;
   flex: none;
   order: 0;
@@ -905,7 +905,7 @@ h4 {
   padding: 12px;
   width: 89px;
   height: 40px;
-  background: #ffffff;
+  background: #fff;
   border-radius: 8px;
   flex: none;
   order: 0;
@@ -919,7 +919,7 @@ h4 {
   padding: 12px;
   width: 89px;
   height: 40px;
-  background: #ffffff;
+  background: #fff;
   border-radius: 8px;
   flex: none;
   order: 0;
@@ -933,7 +933,7 @@ h4 {
   padding: 12px;
   width: 89px;
   height: 40px;
-  background: #ffffff;
+  background: #fff;
   border-radius: 8px;
   flex: none;
   order: 0;
@@ -1034,21 +1034,7 @@ h4 {
   padding: 12px;
   width: 89px;
   height: 40px;
-  background: #ffffff;
-  border-radius: 8px;
-  flex: none;
-  order: 0;
-  flex-grow: 0;
-}
-
-.tag-lang-name1 {
-  display: flex;
-  flex-direction: row;
-  align-items: center;
-  padding: 12px;
-  width: fit-content;
-  height: 40px;
-  background: #ffffff;
+  background: #fff;
   border-radius: 8px;
   flex: none;
   order: 0;
