@@ -11,7 +11,7 @@
 .toolbar {
   position: relative;
   width: 375px;
-  height: 6715px;
+  height: 4300px;
   display: flex;
   flex-direction: column;
   background-image: url("Background.svg");
@@ -174,8 +174,8 @@ h4 {
   position: absolute;
   width: 379px;
   height: 3283px;
-  left: 0;
   top: 708px;
+  justify-items: center;
 }
 
 .project-text {
@@ -219,7 +219,7 @@ h4 {
 }
 
 .grid-work-row1 {
-  display: flex;
+  display: grid;
   flex-direction: column;
   align-items: center;
   padding: 4px 2px;
@@ -235,8 +235,6 @@ h4 {
   display: flex;
   flex-direction: column;
   position: absolute;
-  left: 15px;
-  right: 0;
   top: 220px;
   bottom: 0;
   background: #ebf0ee;
@@ -244,14 +242,14 @@ h4 {
   width: 327px;
   height: 474px;
   order: 0;
+  align-items: center;
+  justify-content: center;
 }
 
 .img-placeholder2 {
   display: flex;
   flex-direction: column;
   position: absolute;
-  left: 15px;
-  right: 0;
   top: 720px;
   bottom: 0;
   background: #ebf0ee;
@@ -265,8 +263,6 @@ h4 {
   display: flex;
   flex-direction: column;
   position: absolute;
-  left: 15px;
-  right: 0;
   top: 1220px;
   bottom: 0;
   background: #ebf0ee;
@@ -280,8 +276,6 @@ h4 {
   display: flex;
   flex-direction: column;
   position: absolute;
-  left: 15px;
-  right: 0;
   top: 1720px;
   bottom: 0;
   background: #ebf0ee;
@@ -295,8 +289,6 @@ h4 {
   display: flex;
   flex-direction: column;
   position: absolute;
-  left: 15px;
-  right: 0;
   top: 2220px;
   bottom: 0;
   background: #ebf0ee;
@@ -310,8 +302,6 @@ h4 {
   display: flex;
   flex-direction: column;
   position: absolute;
-  left: 15px;
-  right: 0;
   top: 2720px;
   bottom: 0;
   background: #ebf0ee;
@@ -327,6 +317,9 @@ h4 {
   flex: none;
   order: 0;
   flex-grow: 0;
+  align-items: center;
+  justify-content: center;
+  margin: auto;
 }
 
 .card-enable2 {
