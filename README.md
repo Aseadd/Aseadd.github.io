@@ -37,23 +37,9 @@ Make sure NodeJs and NPM are installed
 3.  Open the index html in your browser
     `open index.html
 
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
-
 ## Authors
 
 👤 **Author1**
-
-- GitHub: [@githubhandle](https://github.com/Aseadd)
-- Twitter: [@twitterhandle](https://twitter.com/adaTsega)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/addistsega)
-
-👤 **Author2**
 
 - GitHub: [@githubhandle](https://github.com/Aseadd)
 - Twitter: [@twitterhandle](https://twitter.com/adaTsega)
