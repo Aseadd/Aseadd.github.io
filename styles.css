@@ -1155,7 +1155,9 @@ button {
   color: #42526e;
 }
 
-#name:focus, #email:focus, #msg:focus {
+#name:focus,
+#email:focus,
+#msg:focus {
   border-color: rgb(255, 0, 0);
 }
 
