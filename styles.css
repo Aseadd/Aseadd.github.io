@@ -1055,7 +1055,7 @@ h4 {
   border-radius: 5px;
   background-color: white;
   left: 20px;
-  background: url(images/back.svg);
+  background-image: url(images/back.svg);
   background-repeat: no-repeat;
   background-position: 250px 700px;
 }
@@ -1092,7 +1092,6 @@ h4 {
   justify-content: center;
   top: 15px;
   margin-top: 50px;
-  
 }
 
 #name,
