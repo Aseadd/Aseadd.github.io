@@ -1087,7 +1087,7 @@ h4 {
   align-items: center;
   justify-content: center;
   background-image: url(images/back.svg);
-  background-repeat: no-repeat, repeat;
+  background-repeat: no-repeat;
   background-position: right;
   margin-top: 50px;
 }
@@ -1169,4 +1169,10 @@ button {
   background: #0d151e;
   border-radius: 10px;
   top: 6490px;
+}
+
+#name:hover,
+#email:hover,
+#msg:hover {
+  border: 2px solid blue;
 }

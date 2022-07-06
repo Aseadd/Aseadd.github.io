@@ -63,4 +63,4 @@ Give a ⭐️ if you like this project!
 
 ## 📝 License
 
-Copyright 2021, [Addis Tsega]
+This project is [MIT] (/MIT.md) licensed.
