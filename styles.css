@@ -14,7 +14,8 @@
   height: 5500px;
   display: flex;
   flex-direction: column;
-  background-image: url("images/Background.svg");
+  background: url("images/Background.svg");
+  background-position: 5px 60px;
   background-repeat: no-repeat;
   border-color: brown;
 }
@@ -1054,6 +1055,9 @@ h4 {
   border-radius: 5px;
   background-color: white;
   left: 20px;
+  background: url(images/back.svg);
+  background-repeat: no-repeat;
+  background-position: 250px 700px;
 }
 
 #contact-title {
@@ -1086,10 +1090,9 @@ h4 {
   order: 1;
   align-items: center;
   justify-content: center;
-  background-image: url(images/back.svg);
-  background-repeat: no-repeat;
-  background-position: right;
+  top: 15px;
   margin-top: 50px;
+  
 }
 
 #name,
@@ -1168,7 +1171,7 @@ button {
   bottom: 8px;
   background: #0d151e;
   border-radius: 10px;
-  top: 6490px;
+  top: 6580px;
 }
 
 #name:hover,
