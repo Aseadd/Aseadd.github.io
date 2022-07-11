@@ -8,18 +8,9 @@ This website is my personal portoflio. I have developed number of websites and t
 
 - HTML
 
-## Live Demo (if available)
+## Online Version
 
-[Live Demo Link](https://livedemo.com)
-
-## Getting Started
-
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
-To get a local copy up and running follow these simple example steps.
-
-### Prerequisites
+[Live Demo Link](https://aseadd.github.io)
 
 ### Project Setup
 
@@ -31,9 +22,9 @@ Make sure NodeJs and NPM are installed
 ### Setup
 
 1.  Clone the repo into your local machine
-    `git clone https://github.com/Aseadd/Microverse-Project-1
+    `git clone https://github.com/Aseadd/Aseadd.github.io
 2.  open terminal and cd in the project
-    `cd Microverse-Project-1
+    `cd Aseadd.github.io
 3.  Open the index html in your browser
     `open index.html
 
