@@ -10,7 +10,7 @@ This website is my personal portoflio. I have developed number of websites and t
 
 ## Online Version
 
-[Live Demo Link](https://aseadd.github.io)
+[Online Link](https://aseadd.github.io)
 
 ### Project Setup
 
