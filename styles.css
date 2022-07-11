@@ -1047,7 +1047,7 @@ h4 {
   padding: 64px 24px;
   gap: 58px;
   position: absolute;
-  width: 90%;
+  width: 100%;
   height: 1050px;
   top: 5450px;
   border-radius: 5px;
@@ -1108,9 +1108,8 @@ h4 {
   color: #6b778c;
   align-items: center;
   background: #fff;
-  border: 1px solid #d0d9d4;
+  border: 1px solid #60c095;
   border-radius: 4px;
-  border-color: rgb(78, 78, 37);
 }
 
 #name {
@@ -1125,7 +1124,7 @@ h4 {
 
 .msg {
   order: 2;
-  width: 86%;
+  width: 100%;
   border: rgb(rgb(255, 208, 0), green, blue);
 }
 
@@ -1142,7 +1141,7 @@ button {
 
 .contact-email {
   position: absolute;
-  width: 95%;
+  width: 100%;
   height: 90px;
   top: 860px;
   font-family: 'Inter', serif;
