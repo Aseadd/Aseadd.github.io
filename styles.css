@@ -556,7 +556,7 @@ h4 {
 
 .aboutme-text {
   width: 96%;
-  height: 48px;
+  height: 45px;
   font-family: 'Inter', serif;
   font-style: normal;
   font-weight: 700;
@@ -1187,7 +1187,6 @@ button {
   padding: 10px;
   left: 20px;
   top: 6290px;
-  border: 1px solid red;
 }
 
 @media only screen and (min-width: 768px) {
