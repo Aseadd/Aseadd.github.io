@@ -103,7 +103,7 @@ h1 {
   font-size: 48px;
 }
 
-h4 {
+h2 {
   color: green;
   font-size: 36px;
 }
@@ -508,6 +508,7 @@ h4 {
   background: #36b37f;
   border-radius: 4px;
   border: none;
+  filter: contrast(5);
 }
 
 .btn-text {
